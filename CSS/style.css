@@ -1,15 +1,7 @@
-*{
+/* *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-}
-
-.calc{
-    height: 100vh;
-    width: 100%;
-}
-
-#run{
-    height: 20%;
-    width: 30%;
-}
+}.budget{
+    display: flex;
+} */
